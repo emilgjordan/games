@@ -9,8 +9,52 @@ body{
   padding:0;
 }
 
+.container{
+  width: 80%;
+  margin:auto;
+}
+
 #main-header{
   background: rgb(230,230,230);
   color: rgb(50,50,50);
   padding: 2rem;
+  text-align: center;
+}
+
+#navbar{
+  background: #333;
+  padding: 1rem;
+}
+
+#navbar ul{
+  list-style: none;
+}
+
+#navbar ul li{
+}
+
+#navbar ul li a{
+  color: white;
+  text-decoration: none;
+}
+
+#main-footer{
+  background: #333;
+  color: white;
+  padding: 0.6rem;
+  text-align: center;
+}
+
+.canvas-wrapper{
+  padding: 2rem;
+}
+
+.canvas{
+  border: 1px black solid;
+  align-self: center;
+}
+
+.canvas-wrapper h2{
+  padding: 1rem;
+  align-self: center;
 }
