@@ -1,0 +1,16 @@
+body{
+  font-family: 'Noto Sans', sans-serif;
+  line-height: 1.4rem;
+}
+
+*{
+  box-sizing: border-box;
+  margin:0;
+  padding:0;
+}
+
+#main-header{
+  background: rgb(230,230,230);
+  color: rgb(50,50,50);
+  padding: 2rem;
+}
