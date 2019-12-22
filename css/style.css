@@ -53,6 +53,7 @@ body{
 .canvas{
   border: 1px black solid;
   align-self: center;
+  background: black;
 }
 
 .canvas-wrapper h2{
